@@ -1,0 +1,8 @@
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\FormattingNums\bin\Debug\FormattingNums.exe.config
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\FormattingNums\bin\Debug\FormattingNums.exe
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\FormattingNums\bin\Debug\FormattingNums.pdb
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\FormattingNums\obj\Debug\FormattingNums.exe
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\FormattingNums\obj\Debug\FormattingNums.pdb
+D:\Stuff\Homework\4.ConsoleIO\FormattingNums\bin\Debug\FormattingNums.exe.config
+D:\Stuff\Homework\4.ConsoleIO\FormattingNums\obj\Debug\FormattingNums.exe
+D:\Stuff\Homework\4.ConsoleIO\FormattingNums\obj\Debug\FormattingNums.pdb

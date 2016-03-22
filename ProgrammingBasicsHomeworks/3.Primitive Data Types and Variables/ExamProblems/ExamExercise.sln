@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorrentPirate", "TorrentPirate\TorrentPirate.csproj", "{3DF1521C-F16C-41F6-B662-96A509A612FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketBattle", "BasketBattle\BasketBattle.csproj", "{58A5A916-EA22-42E2-BBB6-3AA1567AE1E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dumbbell", "Dumbbell\Dumbbell.csproj", "{54B7A8D9-71DF-4AF2-8D2C-B8D0D09468BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DF1521C-F16C-41F6-B662-96A509A612FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF1521C-F16C-41F6-B662-96A509A612FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF1521C-F16C-41F6-B662-96A509A612FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF1521C-F16C-41F6-B662-96A509A612FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A5A916-EA22-42E2-BBB6-3AA1567AE1E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A5A916-EA22-42E2-BBB6-3AA1567AE1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A5A916-EA22-42E2-BBB6-3AA1567AE1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A5A916-EA22-42E2-BBB6-3AA1567AE1E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54B7A8D9-71DF-4AF2-8D2C-B8D0D09468BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B7A8D9-71DF-4AF2-8D2C-B8D0D09468BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B7A8D9-71DF-4AF2-8D2C-B8D0D09468BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B7A8D9-71DF-4AF2-8D2C-B8D0D09468BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\IsThirdDigitSeven\bin\Debug\IsThirdDigitSeven.exe.config
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\IsThirdDigitSeven\bin\Debug\IsThirdDigitSeven.exe
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\IsThirdDigitSeven\bin\Debug\IsThirdDigitSeven.pdb
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\IsThirdDigitSeven\obj\Debug\IsThirdDigitSeven.exe
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\IsThirdDigitSeven\obj\Debug\IsThirdDigitSeven.pdb

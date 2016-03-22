@@ -1,0 +1,6 @@
+D:\Homework\ExamProblems_4\ExamProblems_4\bin\Debug\ExamProblems_4.exe.config
+D:\Homework\ExamProblems_4\ExamProblems_4\bin\Debug\ExamProblems_4.exe
+D:\Homework\ExamProblems_4\ExamProblems_4\bin\Debug\ExamProblems_4.pdb
+D:\Homework\ExamProblems_4\ExamProblems_4\obj\Debug\CurrencyCheck.csprojResolveAssemblyReference.cache
+D:\Homework\ExamProblems_4\ExamProblems_4\obj\Debug\ExamProblems_4.exe
+D:\Homework\ExamProblems_4\ExamProblems_4\obj\Debug\ExamProblems_4.pdb

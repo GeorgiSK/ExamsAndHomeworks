@@ -1,0 +1,6 @@
+D:\Stuff\Homework\ExamProblems\KingOfThieves\bin\Debug\KingOfThieves.exe.config
+D:\Stuff\Homework\ExamProblems\KingOfThieves\bin\Debug\KingOfThieves.exe
+D:\Stuff\Homework\ExamProblems\KingOfThieves\bin\Debug\KingOfThieves.pdb
+D:\Stuff\Homework\ExamProblems\KingOfThieves\obj\Debug\KingOfThieves.csprojResolveAssemblyReference.cache
+D:\Stuff\Homework\ExamProblems\KingOfThieves\obj\Debug\KingOfThieves.exe
+D:\Stuff\Homework\ExamProblems\KingOfThieves\obj\Debug\KingOfThieves.pdb

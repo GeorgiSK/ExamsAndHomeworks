@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

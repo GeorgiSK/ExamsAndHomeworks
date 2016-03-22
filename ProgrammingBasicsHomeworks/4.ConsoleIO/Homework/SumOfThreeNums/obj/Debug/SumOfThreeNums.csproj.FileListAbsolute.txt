@@ -1,0 +1,12 @@
+C:\Users\Georgi\Desktop\Homework\SumOfThreeNums\SumOfThreeNums\bin\Debug\SumOfThreeNums.exe.config
+C:\Users\Georgi\Desktop\Homework\SumOfThreeNums\SumOfThreeNums\bin\Debug\SumOfThreeNums.exe
+C:\Users\Georgi\Desktop\Homework\SumOfThreeNums\SumOfThreeNums\bin\Debug\SumOfThreeNums.pdb
+C:\Users\Georgi\Desktop\Homework\SumOfThreeNums\SumOfThreeNums\obj\Debug\SumOfThreeNums.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\Homework\SumOfThreeNums\SumOfThreeNums\obj\Debug\SumOfThreeNums.exe
+C:\Users\Georgi\Desktop\Homework\SumOfThreeNums\SumOfThreeNums\obj\Debug\SumOfThreeNums.pdb
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\SumOfThreeNums\bin\Debug\SumOfThreeNums.exe.config
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\SumOfThreeNums\obj\Debug\SumOfThreeNums.exe
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\SumOfThreeNums\obj\Debug\SumOfThreeNums.pdb
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\SumOfThreeNums\bin\Debug\SumOfThreeNums.exe
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\SumOfThreeNums\bin\Debug\SumOfThreeNums.pdb
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\SumOfThreeNums\obj\Debug\SumOfThreeNums.csprojResolveAssemblyReference.cache

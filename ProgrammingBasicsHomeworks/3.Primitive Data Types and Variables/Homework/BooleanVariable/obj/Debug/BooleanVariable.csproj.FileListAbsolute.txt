@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\BooleanVariable\bin\Debug\BooleanVariable.exe
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\BooleanVariable\bin\Debug\BooleanVariable.pdb
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\BooleanVariable\obj\Debug\BooleanVariable.exe
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\BooleanVariable\obj\Debug\BooleanVariable.pdb

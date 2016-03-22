@@ -1,0 +1,6 @@
+D:\Homework\ExamProblems_4\ArrayMatcher\bin\Debug\ArrayMatcher.exe.config
+D:\Homework\ExamProblems_4\ArrayMatcher\bin\Debug\ArrayMatcher.exe
+D:\Homework\ExamProblems_4\ArrayMatcher\bin\Debug\ArrayMatcher.pdb
+D:\Homework\ExamProblems_4\ArrayMatcher\obj\Debug\ArrayMatcher.csprojResolveAssemblyReference.cache
+D:\Homework\ExamProblems_4\ArrayMatcher\obj\Debug\ArrayMatcher.exe
+D:\Homework\ExamProblems_4\ArrayMatcher\obj\Debug\ArrayMatcher.pdb

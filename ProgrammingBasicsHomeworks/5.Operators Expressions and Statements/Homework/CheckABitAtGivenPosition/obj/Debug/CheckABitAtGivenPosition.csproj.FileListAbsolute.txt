@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.exe.config
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.exe
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\CheckABitAtGivenPosition\bin\Debug\CheckABitAtGivenPosition.pdb
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.exe
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\CheckABitAtGivenPosition\obj\Debug\CheckABitAtGivenPosition.pdb

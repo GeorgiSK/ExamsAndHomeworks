@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

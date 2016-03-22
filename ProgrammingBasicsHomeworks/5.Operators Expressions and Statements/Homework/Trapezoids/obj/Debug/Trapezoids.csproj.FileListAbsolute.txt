@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\Trapezoids\bin\Debug\Trapezoids.exe.config
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\Trapezoids\bin\Debug\Trapezoids.exe
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\Trapezoids\bin\Debug\Trapezoids.pdb
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\Trapezoids\obj\Debug\Trapezoids.exe
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\Trapezoids\obj\Debug\Trapezoids.pdb

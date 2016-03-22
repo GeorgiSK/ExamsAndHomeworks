@@ -1,0 +1,12 @@
+C:\Users\Georgi\Desktop\Homework\TorrentPirate\BasketBattle\bin\Debug\BasketBattle.exe.config
+C:\Users\Georgi\Desktop\Homework\TorrentPirate\BasketBattle\bin\Debug\BasketBattle.exe
+C:\Users\Georgi\Desktop\Homework\TorrentPirate\BasketBattle\bin\Debug\BasketBattle.pdb
+C:\Users\Georgi\Desktop\Homework\TorrentPirate\BasketBattle\obj\Debug\BasketBattle.exe
+C:\Users\Georgi\Desktop\Homework\TorrentPirate\BasketBattle\obj\Debug\BasketBattle.pdb
+C:\Users\Georgi\Desktop\Homework\TorrentPirate\BasketBattle\obj\Debug\BasketBattle.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\Homework\Primitive Data Types and Variables\ExamExercise\BasketBattle\bin\Debug\BasketBattle.exe.config
+C:\Users\Georgi\Desktop\Homework\Primitive Data Types and Variables\ExamExercise\BasketBattle\obj\Debug\BasketBattle.exe
+C:\Users\Georgi\Desktop\Homework\Primitive Data Types and Variables\ExamExercise\BasketBattle\obj\Debug\BasketBattle.pdb
+C:\Users\Georgi\Desktop\Homework\Primitive Data Types and Variables\ExamExercise\BasketBattle\bin\Debug\BasketBattle.exe
+C:\Users\Georgi\Desktop\Homework\Primitive Data Types and Variables\ExamExercise\BasketBattle\bin\Debug\BasketBattle.pdb
+C:\Users\Georgi\Desktop\Homework\Primitive Data Types and Variables\ExamExercise\BasketBattle\obj\Debug\BasketBattle.csprojResolveAssemblyReference.cache

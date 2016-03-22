@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\NumsFromOneToN\bin\Debug\NumsFromOneToN.exe.config
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\NumsFromOneToN\bin\Debug\NumsFromOneToN.exe
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\NumsFromOneToN\bin\Debug\NumsFromOneToN.pdb
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\NumsFromOneToN\obj\Debug\NumsFromOneToN.exe
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\NumsFromOneToN\obj\Debug\NumsFromOneToN.pdb

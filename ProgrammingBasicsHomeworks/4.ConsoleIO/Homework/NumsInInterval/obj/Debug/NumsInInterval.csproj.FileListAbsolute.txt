@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\NumsInInterval\bin\Debug\NumsInInterval.exe.config
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\NumsInInterval\bin\Debug\NumsInInterval.exe
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\NumsInInterval\bin\Debug\NumsInInterval.pdb
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\NumsInInterval\obj\Debug\NumsInInterval.exe
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\NumsInInterval\obj\Debug\NumsInInterval.pdb

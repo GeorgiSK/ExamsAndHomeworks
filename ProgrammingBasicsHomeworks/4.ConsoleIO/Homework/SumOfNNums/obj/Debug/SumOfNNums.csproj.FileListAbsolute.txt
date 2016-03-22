@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\SumOfNNums\bin\Debug\SumOfNNums.exe.config
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\SumOfNNums\bin\Debug\SumOfNNums.exe
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\SumOfNNums\bin\Debug\SumOfNNums.pdb
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\SumOfNNums\obj\Debug\SumOfNNums.exe
+C:\Users\Georgi\Desktop\Homework\ConsoleIO\SumOfNNums\obj\Debug\SumOfNNums.pdb

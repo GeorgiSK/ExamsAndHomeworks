@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\VariableInHexFormat\bin\Debug\VariableInHexFormat.exe.config
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\VariableInHexFormat\bin\Debug\VariableInHexFormat.exe
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\VariableInHexFormat\bin\Debug\VariableInHexFormat.pdb
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\VariableInHexFormat\obj\Debug\VariableInHexFormat.exe
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\VariableInHexFormat\obj\Debug\VariableInHexFormat.pdb

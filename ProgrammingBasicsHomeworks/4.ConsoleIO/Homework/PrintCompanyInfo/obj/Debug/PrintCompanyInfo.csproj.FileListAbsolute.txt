@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\Homework\SumOfThreeNums\PrintCompanyInfo\bin\Debug\PrintCompanyInfo.exe.config
+C:\Users\Georgi\Desktop\Homework\SumOfThreeNums\PrintCompanyInfo\bin\Debug\PrintCompanyInfo.exe
+C:\Users\Georgi\Desktop\Homework\SumOfThreeNums\PrintCompanyInfo\bin\Debug\PrintCompanyInfo.pdb
+C:\Users\Georgi\Desktop\Homework\SumOfThreeNums\PrintCompanyInfo\obj\Debug\PrintCompanyInfo.exe
+C:\Users\Georgi\Desktop\Homework\SumOfThreeNums\PrintCompanyInfo\obj\Debug\PrintCompanyInfo.pdb

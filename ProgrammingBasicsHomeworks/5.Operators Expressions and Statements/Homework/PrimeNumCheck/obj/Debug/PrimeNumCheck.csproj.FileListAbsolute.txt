@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\PrimeNumCheck\bin\Debug\PrimeNumCheck.exe.config
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\PrimeNumCheck\obj\Debug\PrimeNumCheck.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\PrimeNumCheck\bin\Debug\PrimeNumCheck.exe
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\PrimeNumCheck\bin\Debug\PrimeNumCheck.pdb
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\PrimeNumCheck\obj\Debug\PrimeNumCheck.exe
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\PrimeNumCheck\obj\Debug\PrimeNumCheck.pdb

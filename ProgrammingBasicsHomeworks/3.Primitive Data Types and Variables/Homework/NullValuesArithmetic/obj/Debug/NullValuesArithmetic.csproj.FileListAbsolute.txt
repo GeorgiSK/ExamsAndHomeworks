@@ -1,0 +1,8 @@
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe.config
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.pdb
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.exe
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.pdb
+C:\Users\Georgi\Desktop\Homework\Primitive Data Types and Variables\HomeworkPrimitiveDataTypesandVariables\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe.config
+C:\Users\Georgi\Desktop\Homework\Primitive Data Types and Variables\HomeworkPrimitiveDataTypesandVariables\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.exe
+C:\Users\Georgi\Desktop\Homework\Primitive Data Types and Variables\HomeworkPrimitiveDataTypesandVariables\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.pdb

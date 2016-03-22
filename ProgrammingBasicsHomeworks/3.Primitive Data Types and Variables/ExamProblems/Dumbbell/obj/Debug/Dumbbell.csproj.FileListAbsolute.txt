@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\Homework\Primitive Data Types and Variables\ExamExercise\Dumbbell\bin\Debug\Dumbbell.exe.config
+C:\Users\Georgi\Desktop\Homework\Primitive Data Types and Variables\ExamExercise\Dumbbell\bin\Debug\Dumbbell.exe
+C:\Users\Georgi\Desktop\Homework\Primitive Data Types and Variables\ExamExercise\Dumbbell\bin\Debug\Dumbbell.pdb
+C:\Users\Georgi\Desktop\Homework\Primitive Data Types and Variables\ExamExercise\Dumbbell\obj\Debug\Dumbbell.exe
+C:\Users\Georgi\Desktop\Homework\Primitive Data Types and Variables\ExamExercise\Dumbbell\obj\Debug\Dumbbell.pdb
+C:\Users\Georgi\Desktop\Homework\Primitive Data Types and Variables\ExamExercise\Dumbbell\obj\Debug\Dumbbell.csprojResolveAssemblyReference.cache

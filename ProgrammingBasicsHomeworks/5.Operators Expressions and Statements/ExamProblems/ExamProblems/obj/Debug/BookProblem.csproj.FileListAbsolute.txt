@@ -1,0 +1,6 @@
+D:\Stuff\Homework\ExamProblems\ExamProblems\bin\Debug\ExamProblems.exe.config
+D:\Stuff\Homework\ExamProblems\ExamProblems\bin\Debug\ExamProblems.exe
+D:\Stuff\Homework\ExamProblems\ExamProblems\bin\Debug\ExamProblems.pdb
+D:\Stuff\Homework\ExamProblems\ExamProblems\obj\Debug\BookProblem.csprojResolveAssemblyReference.cache
+D:\Stuff\Homework\ExamProblems\ExamProblems\obj\Debug\ExamProblems.exe
+D:\Stuff\Homework\ExamProblems\ExamProblems\obj\Debug\ExamProblems.pdb
