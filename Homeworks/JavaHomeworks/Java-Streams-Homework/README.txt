@@ -1,0 +1,2 @@
+All the product files like course.save and my-copied-picture.jpg are by default empty... You have to run the programs to fill them out!
+If you are using eclipse please make a new project and copy all the source files and .txt .jpg etc. files in their respective folders.
