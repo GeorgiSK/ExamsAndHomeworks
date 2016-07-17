@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\QuotesInStrings\obj\Debug\QuotesInStrings.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

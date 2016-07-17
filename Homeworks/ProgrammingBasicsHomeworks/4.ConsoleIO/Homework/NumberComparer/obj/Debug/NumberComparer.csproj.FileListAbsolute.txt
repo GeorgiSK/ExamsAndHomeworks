@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\Homework\SumOfThreeNums\NumberComparer\bin\Debug\NumberComparer.exe.config
+C:\Users\Georgi\Desktop\Homework\SumOfThreeNums\NumberComparer\bin\Debug\NumberComparer.exe
+C:\Users\Georgi\Desktop\Homework\SumOfThreeNums\NumberComparer\bin\Debug\NumberComparer.pdb
+C:\Users\Georgi\Desktop\Homework\SumOfThreeNums\NumberComparer\obj\Debug\NumberComparer.exe
+C:\Users\Georgi\Desktop\Homework\SumOfThreeNums\NumberComparer\obj\Debug\NumberComparer.pdb
+C:\Users\Georgi\Desktop\Homework\SumOfThreeNums\NumberComparer\obj\Debug\NumberComparer.csprojResolveAssemblyReference.cache

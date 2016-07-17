@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\Bitwise_ExtractBitN3\bin\Debug\Bitwise_ExtractBitN3.exe.config
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\Bitwise_ExtractBitN3\bin\Debug\Bitwise_ExtractBitN3.exe
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\Bitwise_ExtractBitN3\bin\Debug\Bitwise_ExtractBitN3.pdb
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\Bitwise_ExtractBitN3\obj\Debug\Bitwise_ExtractBitN3.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\Bitwise_ExtractBitN3\obj\Debug\Bitwise_ExtractBitN3.exe
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\Bitwise_ExtractBitN3\obj\Debug\Bitwise_ExtractBitN3.pdb

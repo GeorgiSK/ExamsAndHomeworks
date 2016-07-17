@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe.config
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.exe
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\ExtractBitFromInteger\bin\Debug\ExtractBitFromInteger.pdb
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.exe
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\ExtractBitFromInteger\obj\Debug\ExtractBitFromInteger.pdb

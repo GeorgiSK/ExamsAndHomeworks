@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\FourDigitNum\bin\Debug\FourDigitNum.exe.config
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\FourDigitNum\bin\Debug\FourDigitNum.exe
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\FourDigitNum\bin\Debug\FourDigitNum.pdb
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\FourDigitNum\obj\Debug\FourDigitNum.exe
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\FourDigitNum\obj\Debug\FourDigitNum.pdb
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\FourDigitNum\obj\Debug\FourDigitNum.csprojResolveAssemblyReference.cache

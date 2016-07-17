@@ -1,0 +1,6 @@
+D:\Homework\ExamProblems_4\DreamItem\bin\Debug\DreamItem.exe.config
+D:\Homework\ExamProblems_4\DreamItem\bin\Debug\DreamItem.exe
+D:\Homework\ExamProblems_4\DreamItem\bin\Debug\DreamItem.pdb
+D:\Homework\ExamProblems_4\DreamItem\obj\Debug\DreamItem.csprojResolveAssemblyReference.cache
+D:\Homework\ExamProblems_4\DreamItem\obj\Debug\DreamItem.exe
+D:\Homework\ExamProblems_4\DreamItem\obj\Debug\DreamItem.pdb

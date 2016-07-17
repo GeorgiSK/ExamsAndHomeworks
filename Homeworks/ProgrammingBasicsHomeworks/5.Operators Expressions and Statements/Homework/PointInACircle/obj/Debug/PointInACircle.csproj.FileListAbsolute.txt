@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\PointInACircle\bin\Debug\PointInACircle.exe.config
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\PointInACircle\bin\Debug\PointInACircle.exe
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\PointInACircle\bin\Debug\PointInACircle.pdb
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\PointInACircle\obj\Debug\PointInACircle.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\PointInACircle\obj\Debug\PointInACircle.exe
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\PointInACircle\obj\Debug\PointInACircle.pdb

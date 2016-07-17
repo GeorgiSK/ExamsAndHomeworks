@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\Homework\SumOfThreeNums\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe.config
+C:\Users\Georgi\Desktop\Homework\SumOfThreeNums\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.exe
+C:\Users\Georgi\Desktop\Homework\SumOfThreeNums\CirclePerimeterAndArea\bin\Debug\CirclePerimeterAndArea.pdb
+C:\Users\Georgi\Desktop\Homework\SumOfThreeNums\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.exe
+C:\Users\Georgi\Desktop\Homework\SumOfThreeNums\CirclePerimeterAndArea\obj\Debug\CirclePerimeterAndArea.pdb

@@ -1,0 +1,6 @@
+D:\Homework\ExamProblems_4\MagicWand\bin\Debug\MagicWand.exe.config
+D:\Homework\ExamProblems_4\MagicWand\bin\Debug\MagicWand.exe
+D:\Homework\ExamProblems_4\MagicWand\bin\Debug\MagicWand.pdb
+D:\Homework\ExamProblems_4\MagicWand\obj\Debug\MagicWand.csprojResolveAssemblyReference.cache
+D:\Homework\ExamProblems_4\MagicWand\obj\Debug\MagicWand.exe
+D:\Homework\ExamProblems_4\MagicWand\obj\Debug\MagicWand.pdb

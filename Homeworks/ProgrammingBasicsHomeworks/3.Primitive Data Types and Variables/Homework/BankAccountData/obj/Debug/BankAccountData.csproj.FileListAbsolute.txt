@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\BankAccountData\bin\Debug\BankAccountData.exe.config
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\BankAccountData\bin\Debug\BankAccountData.exe
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\BankAccountData\bin\Debug\BankAccountData.pdb
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\BankAccountData\obj\Debug\BankAccountData.exe
+C:\Users\Georgi\Desktop\Homework\DeclareVariables\BankAccountData\obj\Debug\BankAccountData.pdb

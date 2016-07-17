@@ -1,0 +1,7 @@
+C:\Users\Georgi\Desktop\Homework\OddOrEvenInts\OddOrEvenInts\bin\Debug\OddOrEvenInts.exe.config
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\OddOrEvenInts\bin\Debug\OddOrEvenInts.exe.config
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\OddOrEvenInts\bin\Debug\OddOrEvenInts.exe
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\OddOrEvenInts\bin\Debug\OddOrEvenInts.pdb
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\OddOrEvenInts\obj\Debug\OddOrEvenInts.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\OddOrEvenInts\obj\Debug\OddOrEvenInts.exe
+C:\Users\Georgi\Desktop\Homework\5.Operators Expressions and Statements\OddOrEvenInts\obj\Debug\OddOrEvenInts.pdb

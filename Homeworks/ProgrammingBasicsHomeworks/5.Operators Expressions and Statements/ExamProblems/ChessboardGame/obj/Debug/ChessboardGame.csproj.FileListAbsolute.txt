@@ -1,0 +1,6 @@
+D:\Stuff\Homework\ExamProblems\ChessboardGame\bin\Debug\ChessboardGame.exe.config
+D:\Stuff\Homework\ExamProblems\ChessboardGame\bin\Debug\ChessboardGame.exe
+D:\Stuff\Homework\ExamProblems\ChessboardGame\bin\Debug\ChessboardGame.pdb
+D:\Stuff\Homework\ExamProblems\ChessboardGame\obj\Debug\ChessboardGame.exe
+D:\Stuff\Homework\ExamProblems\ChessboardGame\obj\Debug\ChessboardGame.pdb
+D:\Stuff\Homework\ExamProblems\ChessboardGame\obj\Debug\ChessboardGame.csprojResolveAssemblyReference.cache
